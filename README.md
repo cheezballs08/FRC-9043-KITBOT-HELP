@@ -3,6 +3,7 @@
 ## Usage
 If using pathplanner this project will produce errors if you don't set up pathplanner.To set up, open the project in Pathplanner GUI and then set the Holonomic mode to off in the settings. 
 
+In FRC Vscode do:
 CTRL + SHIFT + P -> Simulate Robot Code -> Sim GUI
 
 Then open advantageScope -> Files -> Connect to Simulator 
@@ -40,6 +41,6 @@ Hope yall the best!
 
 DogLog: https://doglog.dev/
 
-Maple SIM: https://shenzhen-robotics-alliance.github.io/maple-sim/
+Maple Sim: https://shenzhen-robotics-alliance.github.io/maple-sim/
 
 Pathplanner: https://pathplanner.dev/home.html
